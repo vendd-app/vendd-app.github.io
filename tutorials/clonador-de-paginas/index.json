@@ -5,7 +5,7 @@
       {
         "name": "Edições na página",
         "slug": "edicoes-na-pagina",
-        "total_articles": 0
+        "total_articles": 2
       }
     ],
     "articles": [
@@ -19,7 +19,7 @@
         "id": 2,
         "title": "Editar elementos pelo código fonte",
         "slug": "editar-elementos-pelo-codigo-fonte-2",
-        "media_type": "video-third"
+        "media_type": "image"
       }
     ]
   }
