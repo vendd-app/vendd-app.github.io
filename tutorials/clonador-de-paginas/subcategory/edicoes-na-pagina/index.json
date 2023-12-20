@@ -1,0 +1,19 @@
+{
+  "status_text": "ok",
+  "output": {
+    "articles": [
+      {
+        "id": 3,
+        "title": "Como alterar imagens da página",
+        "slug": "como-alterar-imagens-da-pagina-3",
+        "media_type": "video-third"
+      },
+      {
+        "id": 4,
+        "title": "Editar título da página",
+        "slug": "editar-titulo-da-pagina-4",
+        "media_type": "video-third"
+      }
+    ]
+  }
+}

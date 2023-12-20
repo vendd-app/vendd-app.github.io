@@ -1,0 +1,28 @@
+{
+  "status_text": "ok",
+  "output": {
+    "subcategories": [
+      {
+        "name": "Google Ads",
+        "slug": "google-ads",
+        "total_articles": 0
+      },
+      {
+        "name": "Google Analytics",
+        "slug": "google-analytics",
+        "total_articles": 0
+      },
+      {
+        "name": "Google Tag Manager",
+        "slug": "google-tag-manager",
+        "total_articles": 0
+      },
+      {
+        "name": "Google Search Console",
+        "slug": "google-search-console",
+        "total_articles": 0
+      }
+    ],
+    "articles": []
+  }
+}

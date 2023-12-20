@@ -1,0 +1,14 @@
+{
+  "status_text": "ok",
+  "output": {
+    "id": 1,
+    "title": "Como alterar o título da página",
+    "resume": "Aprenda como alterar o título da sua página de venda",
+    "content": "Conteúdo do artigo aqui",
+    "json_data": {
+      "media": "https://www.youtube.com/embed/-jrNF3c8H4M?si=gHqRrqpgoVHIJlI0",
+      "media_type": "video-third", 
+      "video_thumb": ""
+    }
+  } 
+}

@@ -4,61 +4,19 @@
     "categories": [
       {
         "name": "Clonador de páginas",
-        "slug": "clonador-de-paginas",
-        "subcategories": [],
-        "articles": [
-          {
-            "id": 1,
-            "title": "Como clonar e configurar uma página",
-            "slug": "como-clonar-e-configurar-uma-pagina-1",
-            "media_type": "video-third"
-          },
-          {
-            "id": 2,
-            "title": "Editar elementos pelo código fonte",
-            "slug": "editar-elementos-pelo-codigo-fonte-2",
-            "media_type": "video-third"
-          }
-        ]
+        "slug": "clonador-de-paginas"
       },
       {
         "name": "Criador de páginas (Elementor)",
-        "slug": "criador-de-paginas-elementor",
-        "subcategories": [],
-        "articles": []
+        "slug": "criador-de-paginas-elementor"
       },
       {
         "name": "Facebook",
-        "slug": "facebook",
-        "subcategories": [],
-        "articles": []
+        "slug": "facebook"
       },
       {
         "name": "Google",
-        "slug": "google",
-        "subcategories": [
-          {
-            "name": "Google Ads",
-            "slug": "google-ads",
-            "total_articles": 0
-          },
-          {
-            "name": "Google Analytics",
-            "slug": "google-analytics",
-            "total_articles": 0
-          },
-          {
-            "name": "Google Tag Manager",
-            "slug": "google-tag-manager",
-            "total_articles": 0
-          },
-          {
-            "name": "Google Search Console",
-            "slug": "google-search-console",
-            "total_articles": 0
-          }
-        ],
-        "articles": []
+        "slug": "google"
       }
     ]
   }
