@@ -1,0 +1,14 @@
+{
+  "status_text": "ok",
+  "output": {
+    "id": 1,
+    "title": "Fazer edições na página pelo código fonte",
+    "resume": "Aprenda como editar título, textos e links em sua página de venda diretamente pelo código fonte",
+    "content": "",
+    "json_data": {
+      "media": "https://iframe.mediadelivery.net/embed/188151/280a768a-f92a-4e34-960f-1fe650778664?autoplay=false&loop=false&muted=false&preload=false&responsive=true",
+      "media_type": "video-third", 
+      "video_thumb": "" 
+    }
+  } 
+}
