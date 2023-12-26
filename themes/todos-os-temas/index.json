@@ -1,0 +1,20 @@
+{
+  "status_text": "ok",
+  "output": {
+    "subcategories": [],
+    "articles": [
+      {
+        "id": 1,
+        "title": "Como clonar e configurar uma página",
+        "slug": "como-clonar-e-configurar-uma-pagina-1",
+        "media_type": "video-third"
+      },
+      {
+        "id": 2,
+        "title": "Fazer edições na página pelo código fonte",
+        "slug": "fazer-edicoes-na-pagina-pelo-codigo-fonte-2",
+        "media_type": "video-third"
+      }
+    ]
+  }
+}
