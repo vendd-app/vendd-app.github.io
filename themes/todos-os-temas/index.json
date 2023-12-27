@@ -1,19 +1,28 @@
 {
   "status_text": "ok",
   "output": {
-    "subcategories": [],
-    "articles": [
+    "themes": [
       {
         "id": 1,
-        "title": "Como clonar e configurar uma página",
-        "slug": "como-clonar-e-configurar-uma-pagina-1",
-        "media_type": "video-third"
+        "title": "Página de venda Sport/Fitness",
+        "slug": "pagina-de-venda-sport-fitness-1",
+        "price": 0.00,
+        "url_download": "",
+        "image_url": "video-third",
+        "has_video": false,
+        "video_type": "hls",
+        "video_url": "https://images.unsplash.com/photo-1634084462412-b54873c0a56d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2VicGFnZXxlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         "id": 2,
-        "title": "Fazer edições na página pelo código fonte",
-        "slug": "fazer-edicoes-na-pagina-pelo-codigo-fonte-2",
-        "media_type": "video-third"
+        "title": "Página de venda Encapsulados/Saúde",
+        "slug": "pagina-de-venda-encapsulados-saude-2",
+        "price": 0.00,
+        "url_download": "",
+        "image_url": "video-third",
+        "has_video": false,
+        "video_type": "hls",
+        "video_url": "https://images.unsplash.com/photo-1566241477600-ac026ad43874?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2VicGFnZXxlbnwwfHwwfHx8MA%3D%3D"
       }
     ]
   }
