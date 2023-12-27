@@ -1,0 +1,34 @@
+{
+  "status_text": "ok",
+  "output": {
+    "themes": [
+      {
+        "name": "Tudo",
+        "slug": "todos-os-temas",
+        "category": "todos-os-temas",
+        "total_themes": 2
+      },
+      {
+        "name": "Páginas de venda",
+        "slug": "paginas-de-venda",
+        "category": "paginas-de-venda",
+        "total_themes": 2
+
+      },
+      {
+        "name": "Pré-sell",
+        "slug": "pre-sell",
+        "category": "pre-sell",
+        "total_themes": 0
+
+      },
+      {
+        "name": "Blocos",
+        "slug": "blocos",
+        "category": "blocos",
+        "total_themes": 0
+
+      }
+    ]
+  }
+}

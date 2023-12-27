@@ -1,0 +1,37 @@
+{
+  "status_text": "ok",
+  "output": {
+    "themes": [
+      {
+        "id": 1,
+        "img": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "title": "Página de venda #821 Fitness e Saúde",
+        "description": "Página ideal para nicho de saúde e mundo fitness",
+        "slug": "slug do template",
+        "theme_code": "1",
+        "price": 19.90,
+        "category": "paginas-de-venda"
+      },
+      {
+        "id": 2,
+        "img": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "title": "Página de venda #521 Fitness e Saúde",
+        "description": "Página ideal para nicho de saúde e mundo fitness",
+        "slug": "slug do template",
+        "theme_code": "1",
+        "price": 0,
+        "category": "paginas-de-venda"
+      },
+      {
+        "id": 3,
+        "img": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "title": "Página de venda #521 Fitness e Saúde",
+        "description": "Página ideal para nicho de saúde e mundo fitness",
+        "slug": "slug do template",
+        "theme_code": "3",
+        "price": 0,
+        "category": "pre-sell"
+      }
+    ]
+  }
+}
