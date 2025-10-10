@@ -3,6 +3,10 @@
   "output": {
     "categories": [
       {
+        "name": "Comece por aqui",
+        "slug": "comece-por-aqui"
+      },
+      {
         "name": "Clonador de páginas",
         "slug": "clonador-de-paginas"
       },
