@@ -6,7 +6,19 @@
       {
         "id": 500,
         "title": "Integração da Kiwify com a Vendd",
-        "slug": "um-resumo-sobre-as-ferramentas-da-vendd-100",
+        "slug": "integracao-da-kiwify-com-a-vendd-500",
+        "media_type": "video-third"
+      },
+      {
+        "id": 501,
+        "title": "Integração da Hotmart com a Vendd",
+        "slug": "integracao-da-hotmart-com-a-vendd-501",
+        "media_type": "video-third"
+      },
+      {
+        "id": 502,
+        "title": "Integração da Braip com a Vendd",
+        "slug": "integracao-da-braip-com-a-vendd-502",
         "media_type": "video-third"
       }
     ]

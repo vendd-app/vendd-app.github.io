@@ -1,0 +1,14 @@
+{
+  "status_text": "ok",
+  "output": {
+    "id": 501,
+    "title": "Integração da Hotmart com a Vendd",
+    "resume": "Aprenda como integrar a Hotmart com a Vendd para conseguir visualizar suas vendas e recuperar compras abandonadas",
+    "content": "",
+    "json_data": {
+      "media": "https://iframe.mediadelivery.net/embed/188151/c0a43a19-5ef6-4410-9f23-ec4c94b632a7?autoplay=false&loop=false&muted=false&preload=false&responsive=true",
+      "media_type": "video-third", 
+      "video_thumb": "" 
+    }
+  } 
+}

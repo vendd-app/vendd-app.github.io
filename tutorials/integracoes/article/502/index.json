@@ -1,0 +1,14 @@
+{
+  "status_text": "ok",
+  "output": {
+    "id": 502,
+    "title": "Integração da Braip com a Vendd",
+    "resume": "Aprenda como integrar a Braip com a Vendd para conseguir visualizar suas vendas e recuperar compras abandonadas",
+    "content": "",
+    "json_data": {
+      "media": "https://iframe.mediadelivery.net/embed/188151/eccf4690-650d-486e-b9d0-6c4b88241603?autoplay=false&loop=false&muted=false&preload=false&responsive=true",
+      "media_type": "video-third", 
+      "video_thumb": "" 
+    }
+  } 
+}
