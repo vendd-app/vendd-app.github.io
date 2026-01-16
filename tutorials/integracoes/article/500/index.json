@@ -1,0 +1,14 @@
+{
+  "status_text": "ok",
+  "output": {
+    "id": 500,
+    "title": "Integração da Kiwify com a Vendd",
+    "resume": "Aprenda como integrar a Kiwify com a Vendd para conseguir visualizar suas vendas e recuperar compras abandonadas",
+    "content": "",
+    "json_data": {
+      "media": "https://iframe.mediadelivery.net/embed/188151/1608998b-863b-47f1-8b1d-55b12d55ac2e?autoplay=false&loop=false&muted=false&preload=false&responsive=true",
+      "media_type": "video-third", 
+      "video_thumb": "" 
+    }
+  } 
+}

@@ -1,0 +1,14 @@
+{
+  "status_text": "ok",
+  "output": {
+    "subcategories": [],
+    "articles": [
+      {
+        "id": 500,
+        "title": "Integração da Kiwify com a Vendd",
+        "slug": "um-resumo-sobre-as-ferramentas-da-vendd-100",
+        "media_type": "video-third"
+      }
+    ]
+  }
+}
